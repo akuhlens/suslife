@@ -1,0 +1,4 @@
+baseURL = "https://akuhlens.github.io/suslife"
+languageCode = "en-us"
+title = "Sus(tainable) Life"
+publishdir = "docs"
