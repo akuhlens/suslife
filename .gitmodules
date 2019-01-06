@@ -1,0 +1,3 @@
+[submodule "themes/story"]
+	path = themes/story
+	url = git@github.com:xaprb/story.git
